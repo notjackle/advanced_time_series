@@ -1,5 +1,5 @@
 # advanced_time_series
-Some exercises in Advanced TimeSeries forecasting and classification (2021)
+Some exercises in Advanced TimeSeries forecasting and classification
 
 
 1. [My report](https://www.dropbox.com/s/8yi4uob8uyezsvo/A%20Multi-Horizon%20Quantile%20Recurrent%20Forecaster%281%29.pptx) on A Multi-Horizon Quantile Recurrent Forecaster: a new DL model for forecasting.
